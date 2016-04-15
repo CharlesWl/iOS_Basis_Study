@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0730"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "561DB1141CBE270C000B0297"
+               BuildableName = "UINavigationController&#x57fa;&#x7840;.app"
+               BlueprintName = "UINavigationController&#x57fa;&#x7840;"
+               ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "561DB12D1CBE270C000B0297"
+               BuildableName = "UINavigationController&#x57fa;&#x7840;Tests.xctest"
+               BlueprintName = "UINavigationController&#x57fa;&#x7840;Tests"
+               ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "561DB1381CBE270C000B0297"
+               BuildableName = "UINavigationController&#x57fa;&#x7840;UITests.xctest"
+               BlueprintName = "UINavigationController&#x57fa;&#x7840;UITests"
+               ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "561DB1141CBE270C000B0297"
+            BuildableName = "UINavigationController&#x57fa;&#x7840;.app"
+            BlueprintName = "UINavigationController&#x57fa;&#x7840;"
+            ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "561DB1141CBE270C000B0297"
+            BuildableName = "UINavigationController&#x57fa;&#x7840;.app"
+            BlueprintName = "UINavigationController&#x57fa;&#x7840;"
+            ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "561DB1141CBE270C000B0297"
+            BuildableName = "UINavigationController&#x57fa;&#x7840;.app"
+            BlueprintName = "UINavigationController&#x57fa;&#x7840;"
+            ReferencedContainer = "container:UINavigationController&#x57fa;&#x7840;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
